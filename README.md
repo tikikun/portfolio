@@ -9,5 +9,5 @@ Simple crawler to incrementally update data from batdongsan
 3.[Trino fx rate function](https://github.com/tikikun/trino-carefunctions)
 Function to get fx rate from trino
 
-4.[Analytics Slack Bot](https://github.com/tikikun/portfolio)
+4.[Analytics Slack Bot](https://github.com/tikikun/analytics-slack-bot)
 Bot to get analytics information from the database
