@@ -11,3 +11,6 @@ Function to get fx rate from trino
 
 4.[Analytics Slack Bot](https://github.com/tikikun/analytics-slack-bot)
 Bot to get analytics information from the database
+
+5.[CLI Toolset(currently RSS reader)](https://github.com/tikikun/cli_tools)
+To read daily news from cli, with proper database and feeds management
