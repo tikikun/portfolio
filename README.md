@@ -25,3 +25,8 @@ Bot to get analytics information from the database
 To read daily news from cli, with proper database and feeds management
     - Python
     - Typer : CLI app making
+    
+6.[BDS Crawler using Pupeteer / ExpressJS](https://github.com/tikikun/bdsCrawler)
+Simple API to crawl data and return result in TypeScript
+    - Typescript
+    - Pupeteer
