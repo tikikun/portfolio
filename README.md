@@ -30,3 +30,7 @@ To read daily news from cli, with proper database and feeds management:
 Simple API to crawl data and return result in TypeScript
 - Typescript
 - Pupeteer
+
+7.[Cloudflare Worker Telegram chatbot](https://github.com/tikikun/cloudflare-worker-project)
+- Chatbot that depends 100% on cloudflare worker, no EC2 required
+- Currently support get fx rate 
